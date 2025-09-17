@@ -1,1 +1,2 @@
 # Multi-AI-Tool
+Multi AI Tool (Streamlit) – A versatile Streamlit-based application integrating multiple AI capabilities. It features a Spam Detection system, a bilingual Text Summarizer (English & Arabic) that allows users to input an article and specify the desired number of sentences, and an Image Feature Selector offering average color analysis, brightness adjustment, cropping, and horizontal/vertical flipping. Edited images can be seamlessly downloaded for further use
